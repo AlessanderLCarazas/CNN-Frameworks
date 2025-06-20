@@ -83,7 +83,9 @@ Este script automatiza el entrenamiento y la evaluación con configuraciones sim
 
 ### FINAL RESULTS SUMMARY
 ![image](https://github.com/user-attachments/assets/05948aa9-550f-4bf9-9159-4101df532156)
-![image](https://github.com/user-attachments/assets/f216b23f-6d60-41ea-9329-f47bf0a39219)
+![image](https://github.com/user-attachments/assets/79aaae3c-7dc5-4dcc-b664-d26f22657122)
+
+
 
 ---
 
