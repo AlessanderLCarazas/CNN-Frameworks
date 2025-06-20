@@ -70,15 +70,20 @@ Este script automatiza el entrenamiento y la evaluación con configuraciones sim
 
 ### SimpsonsMNIST
 
-![Resultados SimpsonsMNIST](ruta_a_simpsons_results.png)
+![image](https://github.com/user-attachments/assets/503f9f7f-f8cc-4fb6-a97c-2712f282941d)
+![image](https://github.com/user-attachments/assets/3ce2c683-3959-4685-abdd-b855d4ba9dd2)
+
 
 ### BreastMNIST
 
-![Resultados BreastMNIST](ruta_a_breast_results.png)
+![image](https://github.com/user-attachments/assets/4636587b-de96-4c4d-8677-ec63b933aab9)
+![image](https://github.com/user-attachments/assets/49ecea04-0c65-42c5-9318-d828b8d61417)
 
-### HAM10000
 
-![Resultados HAM10000](ruta_a_ham_results.png)
+
+### FINAL RESULTS SUMMARY
+![image](https://github.com/user-attachments/assets/05948aa9-550f-4bf9-9159-4101df532156)
+![image](https://github.com/user-attachments/assets/f216b23f-6d60-41ea-9329-f47bf0a39219)
 
 ---
 
