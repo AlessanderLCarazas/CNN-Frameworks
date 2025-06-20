@@ -86,7 +86,6 @@ Este script automatiza el entrenamiento y la evaluación con configuraciones sim
 
 ### Paso 1: Instalar las dependencias
 
-```bash
 pip install torch torchvision numpy pandas matplotlib seaborn scikit-learn Pillow opencv-python
 
 ### Paso 2: Organizar tus datos
