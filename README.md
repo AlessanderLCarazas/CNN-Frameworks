@@ -82,27 +82,6 @@ Este script automatiza el entrenamiento y la evaluación con configuraciones sim
 
 ---
 
-## Instrucciones de Uso
-
-### Paso 1: Instalar las dependencias
-
-pip install torch torchvision numpy pandas matplotlib seaborn scikit-learn Pillow opencv-python
-
-### Paso 2: Organizar tus datos
-
-Asegúrate de tener los siguientes directorios y archivos en tu estructura de proyecto:
-
-- `train-SimpsonsMNIST/` (con carpetas por personaje)
-- `breastmnist.npz`
-- `HAM10000_images_part_1/` y `HAM10000_images_part_2/`
-
----
-
-### Paso 3: Ejecutar el script simple
-
-```bash
-python simple_execution_script.py
-
 ## Lo que se obtendra
 
 ### Métricas completas para cada dataset:
